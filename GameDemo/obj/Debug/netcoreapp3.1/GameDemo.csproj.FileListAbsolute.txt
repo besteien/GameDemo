@@ -1,0 +1,13 @@
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.exe
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.deps.json
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.runtimeconfig.json
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.runtimeconfig.dev.json
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.dll
+C:\Users\sanji\source\repos\GameDemo\GameDemo\bin\Debug\netcoreapp3.1\GameDemo.pdb
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csprojAssemblyReference.cache
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfoInputs.cache
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.AssemblyInfo.cs
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.dll
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.pdb
+C:\Users\sanji\source\repos\GameDemo\GameDemo\obj\Debug\netcoreapp3.1\GameDemo.genruntimeconfig.cache
